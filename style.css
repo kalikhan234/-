@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.s{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}
+select{
+border: none;
+border-radius: 30px;
+width: 50%;
+height: 50%;
+padding: 10px;
+margin: 10px;
+color: #000;
+
+
+}
+option{
+    border: none;
+
+    border-radius: 30px;
+}
